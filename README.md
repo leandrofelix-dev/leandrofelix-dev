@@ -1,7 +1,9 @@
 ## Hi! My name is Leandro Felix 💟
 
-- 🔭 IT Technician and Information Systems Academic
-- 😄 Pronouns: Ele/dele
+=== | Front-end Developer🖥️ | ===<br>
+✅ Information Systems Academic 👨🏼‍🎓<br>
+✅ IT Technician 💻
+
 
 <div align="center">
   <a href="https://github.com/lehinfo-felix">
