@@ -1,8 +1,6 @@
-### Hi! My name is Leandro Felix 💟
+## Hi! My name is Leandro Felix 💟
 
-- 🔭 Information Systems Academic
-- 🌱 Studying NodeJS
-- 🗺️ Located in Brazil
+- 🔭 IT Technician and Information Systems Academic
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
