@@ -1,9 +1,10 @@
-[![Leandro](https://cdn.discordapp.com/attachments/811800332006457356/992465710355861554/code.png)](https://www.lehinfo-felix.github.io/portfolio/) 
 ## Hi! My name is Leandro Felix 🔗
 
 <h3 align="left">Front-end Developer🖥️</h3>
 ✅ Information Systems Academic 👨🏼‍🎓<br>
 ✅ IT Technician 💻
+  
+  [![Leandro](https://cdn.discordapp.com/attachments/811800332006457356/992465710355861554/code.png)](https://www.lehinfo-felix.github.io/portfolio/) 
   
   <div style="display: inline_block"><br>
     <img align="center" alt="JS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
