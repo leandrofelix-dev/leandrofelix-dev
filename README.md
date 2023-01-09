@@ -23,15 +23,16 @@
  <h3 align="left">Social networks</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/leandrofelix-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="40"   alt="linkedin logo"  />
+  <a href="https://app.rocketseat.com.br/me/lehinfo-felix" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" width="30" height="40" alt="rocketseat logo"  />
   </a>
   <a href="https://www.instagram.com/lehfelix.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://app.rocketseat.com.br/me/lehinfo-felix" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" width="30" height="40" alt="rocketseat logo"  />
+    <a href="https://www.linkedin.com/in/leandrofelix-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="40"   alt="linkedin logo"  />
   </a>
+  
 </div>
   
   [![Leandro](https://cdn.discordapp.com/attachments/811800332006457356/992465710355861554/code.png)](https://www.lehinfo-felix.github.io/portfolio/) 
