@@ -1,8 +1,8 @@
-## Hi! My name is Leandro Felix 🔗
+## Olá, eu sou o Leandro, um desenvolvedor full stack apaixonado por tecnologia! 🔗
 
 <h3 align="left">Front-end Developer🖥️</h3>
-✅ Information Systems Academic 👨🏼‍🎓<br>
-✅ IT Technician 💻
+✅ Acadêmico em Sistemas de Informação 👨🏼‍🎓<br>
+✅ Técnico em Informática 💻
   
   <div style="display: inline_block"><br>
     <img align="center" alt="JS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -22,7 +22,7 @@
     <img align="center" alt="LINUX" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   </div>
  
- <h3 align="left">Social networks</h3>
+ <h3 align="left">Redes sociais</h3>
 
 <div align="left">
   <a href="https://app.rocketseat.com.br/me/lehinfo-felix" target="_blank">
