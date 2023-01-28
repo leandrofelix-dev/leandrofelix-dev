@@ -1,4 +1,4 @@
-## Olá, eu sou o Leandro, um desenvolvedor full stack apaixonado por tecnologia! 🔗
+## Olá, eu sou o Leandro, um desenvolvedor web apaixonado por tecnologia! 🔗
 
 <h3 align="left">Front-end Developer🖥️</h3>
 ✅ Acadêmico em Sistemas de Informação 👨🏼‍🎓<br>
