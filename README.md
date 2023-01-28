@@ -1,6 +1,6 @@
 ## Olá, eu sou o Leandro, um cara apaixonado por tecnologia! 🔗
 
-<h3 align="left">Front-end Developer🖥️</h3>
+<h3 align="left">Desenvolvedor React Front-end🖥️</h3>
 ✅ Acadêmico em Sistemas de Informação 👨🏼‍🎓<br>
 ✅ Técnico em Informática 💻
   
