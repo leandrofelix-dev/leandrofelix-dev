@@ -37,6 +37,6 @@
   
 </div>
   
-  [![Leandro](https://cdn.discordapp.com/attachments/811800332006457356/992465710355861554/code.png)](https://www.lehinfo-felix.github.io/portfolio/) 
+<!--   [![Leandro](https://cdn.discordapp.com/attachments/811800332006457356/992465710355861554/code.png)](https://www.lehinfo-felix.github.io/portfolio/)  -->
 
 ![Snake animation](https://github.com/lehinfo-felix/lehinfo-felix/blob/output/github-contribution-grid-snake.svg)
