@@ -1,6 +1,6 @@
 ## Olá, eu sou o Leandro, um cara apaixonado por tecnologia! 🔗
 
-<h3 align="left">Desenvolvedor React Front-end🖥️</h3>
+<h3 align="left">Desenvolvedor Web fullstack🖥️</h3>
 ✅ Acadêmico em Sistemas de Informação 👨🏼‍🎓<br>
 ✅ Técnico em Informática 💻
   
@@ -10,6 +10,7 @@
     <img align="center" alt="REACTJS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="NODE" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="NEXT" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="PYTHON" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="MONGO" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="HTML" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
