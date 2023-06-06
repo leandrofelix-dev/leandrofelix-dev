@@ -1,10 +1,10 @@
 ## 🇧🇷 Hello, I'm Leandro, a Brazilian developer passionate about technology! 
 <h3 align="left">Fullstack JS | TS Developer - Web and Mobile 🖥️</h3>
-✅ Acad. Sistemas de Informação 👨🏼‍🎓<br>
-✅ Informatics technician 💻
+👨🏼‍🎓 ➬ Acad. Sistemas de Informação<br>
+💻 ➬ Informatics technician 
 
 ### Most used Languages and Tools:
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <img align="center" alt="JS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="TS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
     <img align="center" alt="NODE" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -24,7 +24,7 @@
   </div>
   
   ### Others:
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <img align="center" alt="PYTHON" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="PHP" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="ARDUINO" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
