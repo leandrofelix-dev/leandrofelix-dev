@@ -1,6 +1,6 @@
 ## 🇧🇷 Hello, I'm Leandro, a Brazilian developer passionate about technology! 
 <h3 align="left">Fullstack JS | TS Developer - Web and Mobile 🖥️</h3>
-👨🏼‍🎓 ➬ Acad. Sistemas de Informação<br>
+👨🏼‍🎓 ➬ Academic in Information Systems<br>
 💻 ➬ Informatics technician 
 
 ### Most used Languages and Tools:
