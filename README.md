@@ -8,7 +8,7 @@
 
 
 ```javascript
-const LeandroFelix = {
+let LeandroFelix = {
     "Who I'm": ["Leandro Felix", "20 old"],
     "Education": ["Bachelor of Information Systems - IFCE 6/8"],
     "Technologies": {
