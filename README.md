@@ -1,4 +1,12 @@
 ## 🇧🇷 Hello, I'm Leandro, a Brazilian developer passionate about technology! 
+
+<h3 align="left">Fullstack JS | TS Developer - Web and Mobile 🖥️</h3>
+👨🏼‍🎓 ➬ Academic in Information Systems<br>
+💻 ➬ Informatics technician 
+</br>
+</br>
+
+
 ```javascript
 const LeandroFelix = {
     "Who I'm": ["Leandro Felix", "20 old"],
@@ -12,11 +20,6 @@ const LeandroFelix = {
     }
 }
 ```
-
-<h3 align="left">Fullstack JS | TS Developer - Web and Mobile 🖥️</h3>
-👨🏼‍🎓 ➬ Academic in Information Systems<br>
-💻 ➬ Informatics technician 
-
 ### Most used Languages and Tools:
   <div style="display: inline_block">
     <img align="center" alt="JS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
