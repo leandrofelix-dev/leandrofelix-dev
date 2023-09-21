@@ -6,20 +6,6 @@
 </br>
 </br>
 
-
-```javascript
-let LeandroFelix = {
-    "Who I'm": ["Leandro Felix", "20 old"],
-    "Education": ["Bachelor of Information Systems - IFCE 6/8"],
-    "Technologies": {
-        "Back-end": ["JavaScript", "TypeScript", "Nodejs", "express", "Prisma", "Mongoose"],
-        "Fron-end": ["React", "NextJS", "ShadUI", "Tailwindcss"],
-        "Database": ["Postgres", "MySQL", "MongoDB"],
-        "Tools": ["Insomnia", "Jest"],
-        "Methodology": ["SCRUM"]
-    }
-}
-```
 ### Most used Languages and Tools:
   <div style="display: inline_block">
     <img align="center" alt="JS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
