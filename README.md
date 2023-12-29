@@ -42,22 +42,3 @@
     <img align="center" alt="MYSQL" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="APACHE" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
   </div>
- 
- <h3 align="left">Social networks</h3>
-
-<div align="left">
-  <a href="https://app.rocketseat.com.br/me/lehinfo-felix" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" width="30" height="40" alt="rocketseat logo"  />
-  </a>
-  <a href="https://www.instagram.com/leandrofelix-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="40" alt="instagram logo"  />
-  </a>
-    <a href="https://www.linkedin.com/in/leandrofelix-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="40"   alt="linkedin logo"  />
-  </a>
-  
-</div>
-  
-<!--   [![Leandro](https://cdn.discordapp.com/attachments/811800332006457356/992465710355861554/code.png)](https://www.lehinfo-felix.github.io/portfolio/)  -->
-
-![Snake animation](https://github.com/lehinfo-felix/lehinfo-felix/blob/output/github-contribution-grid-snake.svg)
