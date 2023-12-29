@@ -6,6 +6,10 @@
 </br>
 </br>
 
+<a href="https://leandrofelix.dev.br" target="_blank">
+    Visit my portfolio! 
+  </a> 👩🏽‍🚀
+
 ### Most used Languages and Tools:
   <div style="display: inline_block">
     <img align="center" alt="JS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
