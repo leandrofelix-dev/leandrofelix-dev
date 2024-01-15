@@ -10,7 +10,7 @@
 Hi there 👋🏻
 I'm Leandro Felix, System Analist at [G4 Flex](https://g4flex.com.br/), working with js technologies, like <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b> React, React Native</b>, and <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
 
-#### I have skills in::
+#### I have skills in:
   <div style="display: inline_block">
     <img align="center" alt="JS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="TS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
