@@ -1,16 +1,16 @@
+
+<p>
+   <img src="https://i.ibb.co/cTT0xVF/capa-github.png" alt="CL Thumb" border="0" width="100%">
+</p>
+
+---
+
 ## 🇧🇷 Hello, I'm Leandro, a Brazilian developer passionate about technology! 
 
-<h3 align="left">Fullstack JS | TS Developer - Web and Mobile 🖥️</h3>
-👨🏼‍🎓 ➬ Academic in Information Systems<br>
-💻 ➬ Informatics technician 
-</br>
-</br>
+Hi there 👋🏻
+I'm Leandro Felix, System Analist at [G4 Flex](https://g4flex.com.br/), working with js technologies, like <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b> React, React Native</b>, and <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
 
-<a href="https://leandrofelix.dev.br" target="_blank">
-    Visit my portfolio! 
-  </a> 👩🏽‍🚀
-
-### Most used Languages and Tools:
+#### I have skills in::
   <div style="display: inline_block">
     <img align="center" alt="JS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="TS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
@@ -30,7 +30,7 @@
 
   </div>
   
-  ### Other skills:
+  #### Other skills:
   <div style="display: inline_block">
   <img align="center" alt="PS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="AI" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
