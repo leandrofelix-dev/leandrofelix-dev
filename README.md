@@ -1,6 +1,6 @@
 
 <p>
-   <img src="https://i.ibb.co/cyw1Fpc/leandrofelix-dev.png" alt="LFThumb" border="0" width="100%">
+   <img src="https://i.ibb.co/ZTgLnzJ/leandrofelix-dev2.png" alt="LFThumb" border="0" width="100%">
 </p>
 
 ---
