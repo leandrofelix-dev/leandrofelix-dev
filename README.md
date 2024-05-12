@@ -1,11 +1,3 @@
-
-<p>
-   <img src="https://i.ibb.co/q5rjK8W/leandrofelix-dev.png" alt="LFThumb" border="0" width="100%">
-   
-</p>
-
----
-
 ## 🇧🇷 Hello, I'm Leandro, a Brazilian developer passionate about technology! 
 
 Hi there 👋🏻
