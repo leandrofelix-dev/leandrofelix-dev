@@ -19,6 +19,8 @@ I'm Leandro Felix, System Analist at [G4 Flex](https://g4flex.com.br/), working 
     <img align="center" alt="FIREBASE" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
     <img align="center" alt="AWS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
     <img align="center" alt="FIGMA" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" alt="RABBITMQ" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg">
+
 
   </div>
   
