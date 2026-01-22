@@ -1,4 +1,4 @@
-## 🇧🇷 Hello, I'm Leandro Felix, a Brazilian developer passionate about technology! 
+## 🇧🇷 Hello, I'm Leandro, a Brazilian developer passionate about technology! 
 
 Hi there 👋🏻
 I'm Leandro Felix, System Analist at [G4 Flex](https://g4flex.com.br/), working with js technologies, like <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b> React, React Native</b>, and <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
